@@ -1,3 +1,4 @@
+// Hàm kiểm tra thông tin đăng nhập của người dùng
 function login(username, password) {
     const users = {
         admin: {
